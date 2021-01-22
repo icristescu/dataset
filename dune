@@ -1,0 +1,10 @@
+(library
+  (public_name dataset)
+  (libraries unix yojson fmt dune-site))
+
+(generate_sites_module (module sites) (sites dataset))
+
+(install
+ (section (site (dataset data)))
+ (files
+  (trace.tar.gz as trace.tar.gz)))
