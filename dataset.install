@@ -1,0 +1,26 @@
+lib: [
+  "_build/install/default/lib/dataset/META"
+  "_build/install/default/lib/dataset/Sites.ml"
+  "_build/install/default/lib/dataset/dataset.a"
+  "_build/install/default/lib/dataset/dataset.cma"
+  "_build/install/default/lib/dataset/dataset.cmi"
+  "_build/install/default/lib/dataset/dataset.cmt"
+  "_build/install/default/lib/dataset/dataset.cmti"
+  "_build/install/default/lib/dataset/dataset.cmx"
+  "_build/install/default/lib/dataset/dataset.cmxa"
+  "_build/install/default/lib/dataset/dataset.cmxs"
+  "_build/install/default/lib/dataset/dataset.ml"
+  "_build/install/default/lib/dataset/dataset.mli"
+  "_build/install/default/lib/dataset/dataset__.cmi"
+  "_build/install/default/lib/dataset/dataset__.cmt"
+  "_build/install/default/lib/dataset/dataset__.cmx"
+  "_build/install/default/lib/dataset/dataset__.ml"
+  "_build/install/default/lib/dataset/dataset__Sites.cmi"
+  "_build/install/default/lib/dataset/dataset__Sites.cmt"
+  "_build/install/default/lib/dataset/dataset__Sites.cmx"
+  "_build/install/default/lib/dataset/dune-package"
+  "_build/install/default/lib/dataset/opam"
+]
+share_root: [
+  "_build/install/default/share/dataset/data/trace.tar.gz" {"dataset/data/trace.tar.gz"}
+]
